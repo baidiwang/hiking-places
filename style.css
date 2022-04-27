@@ -63,6 +63,9 @@
     background-color: rgba(37, 37, 37, 0.8);
   }
   
+
+
+
   /* 
    * YOUR CSS:
    */
@@ -139,8 +142,8 @@
   
   .small-images a:hover {
     color: #202b47;
-    background-color: #fff;
     box-shadow: #d3d3d3;
+    background-color: #f39c12;
   }
 
   
