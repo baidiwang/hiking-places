@@ -107,9 +107,12 @@
   
   .staff-name {
     font-size: 28px;
+    bottom:0;
+    margin-bottom: 0%;
   }
   
   .staff-bio {
+    margin-top: 0%;
     font-style: italic;
   }
   
